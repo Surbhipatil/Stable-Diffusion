@@ -6,7 +6,7 @@
 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Surbhipatil/Stable-Diffusion/blob/main/dinh-nghia-stable-diffusion-la-gi.jpg)
 
 ## Introduction
 Stable Diffusion is a powerful text-to-image generative model developed to create high-quality images from natural language prompts. By leveraging the latest advancements in deep learning, Stable Diffusion generates realistic and stylized images from text descriptions, making it useful for artists, content creators, and developers in various creative fields.
